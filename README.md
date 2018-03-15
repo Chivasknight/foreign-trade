@@ -313,6 +313,189 @@ onenote
 ***
 ##检查文章版权的网站
 http://copyscape.com/
+***
+##关键词工具
+ubersuggest.org
+
+http://www.keyworddiscovery.com/：keywords查询工具免费数量上远超GOOGLE 的800个
+
+谷歌全球商机洞察：
+http://translate.google.com/globalmarketfinder/index.html?locale=en
+
+http://www.keywordspy.com/
+
+Triplify
+
+http://www.wmtips.com/tools/keyword-density-analyzer/
+
+http://www.wideindex.com/	：找同行查源文件学习关键词各方面等WideIndex
+
+Keyworddiscovery
+
+Wordtracker
+***
+##查看网页过去的样子
+Wayback machine	www.archive.org
+
+http://www.infomall.cn/
+
+http://www.domaintools.com/research：screenshot history
+***
+##截取整个网页长页面的功能
+浏览器插件：花瓣
+
+浏览器：360安全浏览器7.1
+***
+##有关建站的免费内容工具网站
+http://spyrestudios.com/
+***
+##屏蔽IP
+http://blockacountry.com
+***
+##CRM
+国产免费 CRM 软件“麦客”
+
+Zoho CRM
+***
+##图片存储网站
+国外Photobucket
+国内七牛
+***
+##案例参考网站
+www.zappos.com：视频营销卖鞋子
+
+www.dollarshaveclub.com：视频营销
+
+One pound fish：	卖鱼视频
+
+will it blend ?：搅拌机视频 
+
+www.mocka.co.nz
+
+www.trademe.com
+
+www.gpstrackit.com
+
+www.asiainspection.com：亚洲质检
+
+www.smashingmagazine.com：	字体色调学习网站
+
+blog.aimet.org：landing page学习
+
+sysaid.com：带导航的landing page
+
+block imaging：充分利用了landing page的b2b
+
+www.cracked.com：学习使用标题
+
+www.hubspot.com
+
+http://www.rambotech.com：M颜
+
+www.iwiss.com：学员网站
+***
+##下载分享学习专区
+http://pan.baidu.com/share/hom ... e%3D0：美工教程
+
+【网站加速】CDN知识普及：
+http://ask.imiker.com/question/1051
+
+rambotech首页手绘视频制作讲解：http://ask.imiker.com/question/927
+
+GOOGLE SEO Starter Guide：
+http://pan.baidu.com/s/1i3wzgAL
+
+52 Social Media Tips：
+http://pan.baidu.com/s/1i3imcbr
+
+SEO BOOK：
+http://pan.baidu.com/s/1ntkLI33
+
+How to use Facebook for business：
+http://pan.baidu.com/s/1hqkpUcs
+
+Learning Linkedin from the experts：
+http://pan.baidu.com/s/1nt5Kylb
+
+Youtube视频营销电子书：
+http://pan.baidu.com/s/1bn2aZ6Z
+
+30天30個 AdWords 技能：
+http://goo.gl/mOyvm1
+
+最全的外贸电商干货学习资料：
+http://ask.imiker.com/question/1123
+
+老外教如何从中国进口小商品：
+http://startupbros.com/how-you-can-make-big-money-importing-from-china-the-rise-and-fall-of-my-empire/
+
+Tips: SEO and Design balance	链接: http://pan.baidu.com/s/1mgDUveK 密码: q57m
+***
+##邮箱相关
+www.bugmenot.com：	免注册登录80%网站
+
+10minutemail.com：	十分钟有效邮箱
+
+http://www.filzmail.com/
+
+邮箱有效性查询：http://verify-email.org/、http://www.verifyemailaddress.org/、http://mailtester.com/、http://valyds.com/
+查阅跟进：	http://www.readnotify.com/、http://www.ifread.com/、
+http://valyds.com/
+只知其一不知其二猜邮箱：http://www.email-format.com/d/airam.fi/ (输入abc.com得到公司邮箱内容格式）可尝试用lead411.com 联系人 搜索或者 email-format.com @目标客户网址
+
+http://www.infocheckpoint.com
+
+http://www.peekyou.com/：也可验证e-mail地域是否有效
+
+http://yippy.com/
+
+http://www.yatedo.com
+***
+##其他
+http://text-to-speech.imtranslator.net/：	English等各种语言 Text To Speech
+
+http://www.zz91.com/cn/trade38955.html ：各国上班时间表
+
+http://www.earthcalendar.net/index.php：世界日历 查看节假方便
+
+www.camerasummary.com：挖掘相片背后更多信息
+
+http://www.nicetranslator.com/：同时翻译成多种语言
+
+http://www.definr.com/：英译英
+
+http://labs.juiceanalytics.com/chartchooser/：高级图片套用工具
+
+http://linkblip.com/：查看客户是否打开网站
+
+http://ec.europa.eu/taxation_customs：TARIC Consultation关税
+
+http://www.zoominfo.com：有子母公司信息，联系方式
+
+http://www.triplify.com/	Triplifier：预估当地市场可接受价格
+
+http://www.acronymfinder.com/：缩写查询acronyms finder
+
+http://www.bloomtools.com/articles/spam-trigger-words-to-avoid.html：具体SPAM词查询传送门
+
+PDF转换器：http://cn.diywz.com/
+
+http://smallpdf.com/cn
+
+http://tineye.com/：以图找图
+
+http://www.clusty.com：Clusty聚合式搜索 左下角的find in clouds:
+
+http://www.corporationwiki.com/：美国公司子母关系查询
+
+http://www.freepatentsonline.com：美国专利查询
+
+http://www.trademarkia.com/：可查品牌专利LOGO域名等美加欧
+
+http://www.spokeo.com/email-search/：社交网站全搜索
+
+https://www.fountaingreetings.com/register：美国寄贺卡
+
 
 
 
